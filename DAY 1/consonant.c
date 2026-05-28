@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 #include<string.h>
 int main(){
     char a[20];
@@ -14,7 +13,7 @@ int main(){
 
     int s=strlen(a);
 
-    printf("Total no. of vowels are: %d",s-count);
+    printf("Total no. of consonants are: %d",s-count);
 
 
 }
