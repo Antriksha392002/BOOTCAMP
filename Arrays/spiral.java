@@ -17,7 +17,7 @@ public class spiral {
             top++;
 
             for(int i=top;i<=bottom;i++){
-                System.out.print(arr[i][bottom]+" ");
+                System.out.print(arr[i][right]+" ");
             }
             right--;
 
