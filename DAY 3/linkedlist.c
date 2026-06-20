@@ -40,5 +40,5 @@ int creatnode(struct node* head){
 void main(){
     struct node* head=NULL;
     int count=creatnode(head);
-    printf("total no. of element is : %d",count);
+    printf("Total no. of element is : %d",count);
 }
