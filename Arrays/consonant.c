@@ -2,7 +2,7 @@
 #include<string.h>
 int main(){
     char a[20];
-    printf("write a word\n");
+    printf("Write a word\n");
     scanf("%s",&a);
     int count=0;
     for(int i=0;i<20;i++){
