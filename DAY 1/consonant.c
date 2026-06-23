@@ -13,7 +13,7 @@ int main(){
 
     int s=strlen(a);
 
-    printf("Total no. of consonants are: %d",s-count);
+    printf("Total no. of consonants are: %d", s-count);
 
 
 }
