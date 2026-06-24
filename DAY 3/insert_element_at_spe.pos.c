@@ -10,7 +10,7 @@ struct node* creatnode(struct node* head){
     struct node *newnode,*temp;
     int n;
      
-    printf("how many element do you want to enter :");
+    printf("how many element do you want to enter : ");
     scanf("%d",&n);
 
 
