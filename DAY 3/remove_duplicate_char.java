@@ -7,5 +7,6 @@ public class remove_duplicate_char{
     String c=sc.next();
     HashMap<Integer,Character> map=new HashMap<>();
 
+        
     }
 }
